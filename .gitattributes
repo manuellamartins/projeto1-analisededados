@@ -1,7 +1,0 @@
-# Linguagem principal
-*.py linguist-language=Python
-
-# Linguagens secundárias
-*.jupyter linguist-language=Jupyter Notebook
-*.pandas linguist-language=Pandas
-
